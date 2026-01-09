@@ -113,7 +113,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Flame" size={28} className="text-secondary" />
-              <span className="text-2xl font-bold text-primary">Коптильня</span>
+              <span className="text-2xl font-bold text-primary">Коптильня 63</span>
             </div>
             <div className="hidden md:flex items-center gap-6">
               <button
@@ -166,7 +166,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h1 className="text-5xl md:text-6xl font-bold text-primary mb-6">
-                Настоящие копчёные деликатесы
+                Коптильня 63 — Настоящие копчёные деликатесы
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
                 Традиционное копчение на натуральном дереве. Каждый продукт - произведение искусства
@@ -532,10 +532,10 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Icon name="Flame" size={24} />
-              <span className="text-xl font-bold">Коптильня</span>
+              <span className="text-xl font-bold">Коптильня 63</span>
             </div>
             <div className="text-center md:text-left">
-              <p>© 2025 Коптильня. Все права защищены.</p>
+              <p>© 2025 Коптильня 63. Все права защищены.</p>
             </div>
             <div className="flex items-center gap-4">
               <a href="#" className="hover:text-accent transition-colors">
